@@ -1,0 +1,25 @@
+h1{
+    color: rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif ;
+}
+td{
+    width: 200;
+}
+table{
+    background-color: #ffffff;
+}
+#ll1{
+    color: lightgrey;
+}
+li{
+    background-color: aqua; width: 320px; font-size: larger; font-family: sans-serif;
+}
+p{
+    color: white;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: white;
+}
+@import url(https://www.google.com/search?client=firefox-b-d&q=tempo+hoje);
